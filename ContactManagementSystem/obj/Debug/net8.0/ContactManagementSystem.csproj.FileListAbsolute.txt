@@ -1,0 +1,14 @@
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\bin\Debug\net8.0\ContactManagementSystem.exe
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\bin\Debug\net8.0\ContactManagementSystem.deps.json
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\bin\Debug\net8.0\ContactManagementSystem.runtimeconfig.json
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\bin\Debug\net8.0\ContactManagementSystem.dll
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\bin\Debug\net8.0\ContactManagementSystem.pdb
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\net8.0\ContactManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\net8.0\ContactManagementSystem.AssemblyInfoInputs.cache
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\net8.0\ContactManagementSystem.AssemblyInfo.cs
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\net8.0\ContactManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\net8.0\ContactManagementSystem.dll
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\net8.0\refint\ContactManagementSystem.dll
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\net8.0\ContactManagementSystem.pdb
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\net8.0\ContactManagementSystem.genruntimeconfig.cache
+C:\Users\DESOUK\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\net8.0\ref\ContactManagementSystem.dll
